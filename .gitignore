@@ -1,0 +1,49 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+
+### Java build outputs ###
+*.class
+*.jar
+target/
+build/
+
+### Generated application data ###
+stock_data/
+*.json
+*.log
+
+### Local configuration and secrets ###
+.env
+.env.*
+config.properties
+api-keys.properties
+
+### Optional personal watchlist ###
+Ticker.txt
+
+### Eclipse ###
+.apt_generated/
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+bin/
+
+### NetBeans ###
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Operating systems ###
+.DS_Store
+Thumbs.db
+desktop.ini
